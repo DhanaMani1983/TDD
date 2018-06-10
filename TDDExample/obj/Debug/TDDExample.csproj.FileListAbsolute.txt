@@ -1,0 +1,10 @@
+C:\C#\TDD\TDDExample\TDDExample\obj\Debug\TDDExample.csprojAssemblyReference.cache
+C:\C#\TDD\TDDExample\TDDExample\obj\Debug\TDDExample.csproj.CoreCompileInputs.cache
+C:\C#\TDD\TDDExample\TDDExample\bin\Debug\TDDExample.exe.config
+C:\C#\TDD\TDDExample\TDDExample\bin\Debug\TDDExample.exe
+C:\C#\TDD\TDDExample\TDDExample\bin\Debug\TDDExample.pdb
+C:\C#\TDD\TDDExample\TDDExample\bin\Debug\FizzBuzz.Library.dll
+C:\C#\TDD\TDDExample\TDDExample\bin\Debug\FizzBuzz.Library.pdb
+C:\C#\TDD\TDDExample\TDDExample\obj\Debug\TDDExample.csproj.CopyComplete
+C:\C#\TDD\TDDExample\TDDExample\obj\Debug\TDDExample.exe
+C:\C#\TDD\TDDExample\TDDExample\obj\Debug\TDDExample.pdb

@@ -1,0 +1,28 @@
+##########################################
+TDD
+#########################################
+
+Source: https://www.youtube.com/watch?v=l4xhTq4qmC0
+
+TDD is software development process of writing test first which would fail and then writing minimum amount of code to pass that test
+
+Task: 
+
+Print Numbers 1 to 100
+If divisible by 3 replace with Fizz
+If divisble by 5 replace with buzz
+If divisible by 3 and 5 then replace with FizzBuzz
+
+
+After that code can be refatored
+
+1. Create a console app, in the main method create a loop which prints number from 1 to 100
+2. Create a class library, which has the business logic, name the class library FizzBuzz.Library and class name FizzBuzz
+3. Create a class library called FizzBuzz.Library.Test and Class name as FizzBuzzTest
+4. Add reference FizzBuzz.Library to the FizzBuzz.Library.Tests
+5. Right click on reference and Nuget Nunit and NUnit adapter which helps to see tests within test explorer
+6. To check whether test environment is set properly, write the sample test and run
+7. In VS enterprise edition, there is a toggle button on the top click it to run test after every build
+8. Lets start with simple example, if number 1 then print number 1
+9. Create a test method for above action, using Arrange, Act, Assert
+10. Nunit has a functionality to pass in values, 

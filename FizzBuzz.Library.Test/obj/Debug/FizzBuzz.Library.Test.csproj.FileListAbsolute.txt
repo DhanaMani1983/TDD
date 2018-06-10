@@ -1,0 +1,2 @@
+C:\C#\TDD\TDDExample\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.csprojAssemblyReference.cache
+C:\C#\TDD\TDDExample\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.csproj.CoreCompileInputs.cache
